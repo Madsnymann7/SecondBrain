@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Nuxt build output
+.nuxt/
+.output/
+.vercel/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# SQLite / Turso local DB files
+*.db
+*.sqlite
+
+# Drizzle migrations metadata
+drizzle/meta/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor
+.vscode/
+.idea/
+*.swp
