@@ -30,3 +30,6 @@ npm-debug.log*
 .vscode/
 .idea/
 *.swp
+
+# Claude Code
+.claude/settings.local.json
